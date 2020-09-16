@@ -10,7 +10,8 @@
 
 * State your inferences.
 
-** Features:-** 
+**Features:** 
+
 URL- The URL
 
 ID- The assigned ID
@@ -49,7 +50,7 @@ Current Version Release Date- When it was last updated
 
 **Note :- The above problem statement and dataset was provided under two months traineeship program under Verzeo EduTech. Pvt. Ltd. Rest all the work is done by me.** 
 
-**Inferences Made:-** 
+**Inferences Made(Result Obtained):-** 
 
 *  Games above 1GB have good ratings and has above 3.5 scores.
 
